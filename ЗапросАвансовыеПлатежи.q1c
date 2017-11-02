@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="АвансовыйОтчет">
+		<text>ВЫБРАТЬ
+	АвансовыйОтчет.Ссылка
+ИЗ
+	Документ.АвансовыйОтчет КАК АвансовыйОтчет
+</text>
+	</query>
+</querylist>
